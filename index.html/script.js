@@ -1,14 +1,13 @@
 // 1. Array of Jokes/Messages
 const jokes = [
-    "Why don't scientists trust atoms? Because they make up everything!",
-    "What do you call a fish with no eyes? Fsh.",
+    "Guess kro 1 kilo lohe aur 1 kilo samose kon sa jyada bhari hoga?.....😂😂😂😂😂🤣🤣🤣🤣🤣 1kilo samosa kyuki chutney bhi toh rhegi!(Dumbo)",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "A termite walks into a bar and asks, 'Is the bar tender here?'",
     "Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing to avoid them.",
     // **PRO-TIP: Add 5-10 personalized inside jokes or sweet messages here!**
     "**Sweet Message:** Every moment with you is my favorite memory. Happy Anniversary!",
     "**Another Joke:** What kind of car does an egg drive? A yolkswagen!",
-    "**Personal Message:** I knew I loved you when [insert personal memory].",
+    "**Personal Message:** I knew I loved you when you smiled at my joke in the class i felled for you and wanted to have you i could have done anything for you at that time to have u remember i and ur bestfriend'y' convincing u to have me.",
 ];
 
 // 2. Get the elements from the HTML
@@ -52,10 +51,11 @@ function handleButtonClick() {
             <p style="font-size: 1.5em; color: #d63384; font-weight: bold;">
                 Happy Anniversary, my love! You are the best part of my life, and that's no joke.
             </p>
-            <p style="font-size: 0.9em;">(Now go check your email/phone/the kitchen counter for your real gift! 😉)</p>
+            <p style="font-size: 0.9em;">(Yaar! kaash tere saath hota ye din celebrate krne ko but kabhi aur sahi konsa mai K2 jaa rha oe maybe dunno!(NVM the case agli baar sahi but saath rhenge hum humesha !!!{I love YOU!} 😉)</p>
         `;
     }
 }
 
 // 5. Attach the function to the button click event
 button.addEventListener('click', handleButtonClick);
+
