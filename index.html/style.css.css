@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); /* Soft gradient background */
+    color: #4a4a4a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    padding: 40px 60px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    max-width: 90%;
+}
+
+h1 {
+    color: #d63384; /* Deep pink/red for celebration */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+#anniversaryButton {
+    background-color: #ff6b6b; /* Bright, attractive color */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+#anniversaryButton:hover {
+    background-color: #e63946;
+}
+
+#anniversaryButton:active {
+    transform: scale(0.98); /* Little press effect */
+}
+
+#jokeBox {
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #ff9a9e;
+    border-radius: 10px;
+    background-color: #fff0f5; /* Very light pink background */
+}
+
+#jokeText {
+    font-style: italic;
+    font-size: 1.1em;
+}
